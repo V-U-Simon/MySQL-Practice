@@ -1,6 +1,11 @@
 # MySQL: практическая работа
 
-Серия заданий посвященных овладеню навыками работы с реляционными базами данных.
+Серия заданий посвященных овладеню навыками работы с реляционными базами
+данных.
+
+[ENG] A series of assignments devoted to mastering the skills of working with relational databases.
+
+---
 
 - [02. “Управление БД”](lesson_02/tasks_02.md)
 - [03. “Введение в проектирование БД”](lesson_03/tasks_03.md)
